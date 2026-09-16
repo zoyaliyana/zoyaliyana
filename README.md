@@ -14,7 +14,28 @@ My goal is to begin my career in cybersecurity and continue developing my techni
 
 ---
 
-<!--
+## 🎓 Certifications & Training
+
+- **NCFE Level 3 Certificate in Cyber Security Practices** — Completed
+- **CompTIA Security+ (SY0-701)** — In Progress
+- **Microsoft Azure Fundamentals (AZ-900)** — Planned
+- **Microsoft Security Operations Analyst (SC-200)** — Planned
+
+---
+
+## 🛡️ Skills & Projects
+
+| Skill | Associated Project |
+|---|---|
+| SIEM Implementation & Log Analysis | 🔨 SOC Home Lab — In Progress |
+| Network Traffic Monitoring & Analysis | 🔜 Coming Soon |
+| Authentication & Security Log Analysis | 🔜 Coming Soon |
+| Phishing Email Investigation | 🔜 Coming Soon |
+| Microsoft Sentinel & KQL | 🔜 Coming Soon |
+| SOC Alert Triage & Incident Management | 🔜 Coming Soon |
+| Threat Intelligence & MITRE ATT&CK | 🔜 Coming Soon |
+
+---<!--
 **zoyaliyana/zoyaliyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
