@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 I'm an aspiring cybersecurity professional developing practical skills in security operations, threat detection, incident response, and security monitoring.
 
@@ -14,7 +14,7 @@ My goal is to begin my career in cybersecurity and continue developing my techni
 
 ---
 
-## 🎓 Certifications & Training
+### 🎓 Certifications & Training
 
 - **NCFE Level 3 Certificate in Cyber Security Practices** — Completed
 - **CompTIA Security+ (SY0-701)** — In Progress
