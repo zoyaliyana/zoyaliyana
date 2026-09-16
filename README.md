@@ -23,7 +23,7 @@ My goal is to begin my career in cybersecurity and continue developing my techni
 
 ---
 
-## 🛡️ Skills & Projects
+### 🛡️ Skills & Projects
 
 | Skill | Associated Project |
 |---|---|
