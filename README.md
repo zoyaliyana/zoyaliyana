@@ -34,5 +34,3 @@ My goal is to begin my career in cybersecurity and continue developing my techni
 | Microsoft Sentinel & KQL | 🔜 Coming Soon |
 | SOC Alert Triage & Incident Management | 🔜 Coming Soon |
 | Threat Intelligence & MITRE ATT&CK | 🔜 Coming Soon |
-- ⚡ Fun fact: ...
--->
