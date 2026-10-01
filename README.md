@@ -23,14 +23,12 @@ My goal is to begin my career in cybersecurity and continue developing my techni
 
 ---
 
-### 🛡️ Skills & Projects
+## 🛡️ Skills & Projects
 
 | Skill | Associated Project |
 |---|---|
-| SIEM Implementation & Log Analysis | 🔨 SOC Home Lab — In Progress |
-| Network Traffic Monitoring & Analysis | 🔜 Coming Soon |
-| Authentication & Security Log Analysis | 🔜 Coming Soon |
-| Phishing Email Investigation | 🔜 Coming Soon |
-| Microsoft Sentinel & KQL | 🔜 Coming Soon |
-| SOC Alert Triage & Incident Management | 🔜 Coming Soon |
-| Threat Intelligence & MITRE ATT&CK | 🔜 Coming Soon |
+| KQL & Authentication Log Analysis | 🔐 CEO Account Takeover Investigation — In Progress |
+| Phishing Analysis & Threat Intelligence | 🎣 Phishing Email Investigation — Coming Soon |
+| SOC Alert Triage & Incident Management | 🚨 Alert Triage Shift in ServiceNow — Coming Soon |
+| SIEM Implementation & Security Monitoring | 🖥️ SOC Home Lab — Coming Soon |
+| Governance, Risk & Compliance | 📋 GRC Project — Coming Soon |
