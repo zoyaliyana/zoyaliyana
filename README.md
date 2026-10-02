@@ -27,7 +27,7 @@ My goal is to begin my career in cybersecurity and continue developing my techni
 
 | Skill | Associated Project |
 |---|---|
-| KQL & Authentication Log Analysis | 🔐 CEO Account Takeover Investigation — Completed |
+| KQL & Authentication Log Analysis | 🔐 [CEO Account Takeover Investigation](https://github.com/zoyaliyana/CEO-Account-Takeover-Investigation) — Completed |
 | Phishing Analysis & Threat Intelligence | 🎣 Phishing Email Investigation — Coming Soon |
 | SOC Alert Triage & Incident Management | 🚨 Alert Triage Shift in ServiceNow — Coming Soon |
 | SIEM Implementation & Security Monitoring | 🖥️ SOC Home Lab — Coming Soon |
